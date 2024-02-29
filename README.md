@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on building a stronger foundation in the data science field.<br>👯 I’m looking to collaborate on data science projects<br>🌱 I’m currently learning ML/NN/DL/NLP<br>💬 Ask me about Data analytics, linear algebra, statistics, Python or SQL.<br>⚡ Fun fact: It took more than 700 pages to prove 1+1=2
-
+🔭 I’m currently working on building a stronger foundation in the data science field.<br>👯 I’m looking to collaborate on data science projects<br>🌱 I’m currently learning ML/NN/DL/NLP<br>💬 Ask me about Data analytics, linear algebra, statistics, Python, ML, DL, SQL or anything tech.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fk_off) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PushpakRuhil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ruhil) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14533607) 
@@ -21,8 +20,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ruhil-ds&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ruhil-ds&icon=5&color=1)](https://visitcount.itsvg.in)
